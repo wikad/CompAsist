@@ -1,0 +1,18 @@
+# Rozpoznawanie mowy
+vosk==0.3.45
+sounddevice==0.5.1
+numpy>=1.26
+
+# Model językowy (wymaga zainstalowanej Ollamy: https://ollama.com)
+ollama==0.4.7
+
+# Synteza mowy z klonowaniem głosu (XTTS v2)
+coqui-tts==0.25.3
+torch>=2.2
+
+# Integracje systemowe (Windows)
+spotipy==2.25.2
+pyautogui==0.9.54
+pycaw==20240210
+
+python-dotenv==1.2.2

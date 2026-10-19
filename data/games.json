@@ -1,0 +1,42 @@
+{
+    "counter strike": {
+        "steam_id": "730",
+        "process": "cs2.exe"
+    },
+    "euro truck": {
+        "steam_id": "1369630",
+        "process": "eurotrucks2.exe"
+    },
+    "acc": {
+        "steam_id": "805550",
+        "process": "AC2-Win64-Shipping.exe"
+    },
+    "assetto corsa": {
+        "steam_id": "244210",
+        "process": "acs.exe"
+    },
+    "call of duty": {
+        "steam_id": "1938090",
+        "process": "cod.exe"
+    },
+    "chained together": {
+        "steam_id": "2567870",
+        "process": "ChainedTogether.exe"
+    },
+    "cossacks 3": {
+        "steam_id": "333420",
+        "process": "cossacks.exe"
+    },
+    "apex legends": {
+        "steam_id": "1172470",
+        "process": "r5apex.exe"
+    },
+    "f1 24": {
+        "steam_id": "2488620",
+        "process": "F1_24.exe"
+    },
+    "raft": {
+        "steam_id": "648800",
+        "process": "Raft.exe"
+    }
+}

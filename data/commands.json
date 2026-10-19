@@ -1,0 +1,162 @@
+{
+    "search_yt": [
+        "puść na youtube",
+        "szukaj na youtube",
+        "odpal na yt",
+        "odpal yt"
+    ],
+    "google": [
+        "szukaj w google",
+        "znajdź w internecie",
+        "sprawdź w google",
+        "odpal google"
+    ],
+    "play_music": [
+        "puść na spotify",
+        "graj na spotify",
+        "puść muzykę",
+        "odpal muzykę",
+        "włącz muzykę"
+    ],
+    "open_spotify": [
+        "otwórz spotify",
+        "uruchom spotify",
+        "włącz spotify",
+        "odpal spotify"
+    ],
+    "stop_music": [
+        "stop muzyka",
+        "zatrzymaj muzykę",
+        "wyłącz muzykę",
+        "pauza muzyka",
+        "wstrzymaj muzykę",
+        "pauza",
+        "stop",
+        "zatrzymać muzykę"
+    ],
+    "open_browser": [
+        "otwórz przeglądarkę",
+        "uruchom chrome",
+        "otwórz chrome",
+        "włącz przeglądarkę",
+        "odpal przeglądarkę",
+        "odpal chrome"
+    ],
+    "time": [
+        "która godzina",
+        "podaj czas"
+    ],
+    "date": [
+        "jaki dziś dzień",
+        "podaj datę"
+    ],
+    "END": [
+        "wyłącz się",
+        "do widzenia",
+        "koniec pracy"
+    ],
+    "open_vscode": [
+        "otwórz vs code",
+        "uruchom vs code",
+        "otwórz projekt",
+        "utwórz projekt",
+        "uruchom projekt",
+        "nowy projekt",
+        "odpal projekt"
+    ],
+    "wielkie_dzieki": [
+        "wielkie dzięki",
+        "dziękuję bardzo",
+        "dzięki wielkie"
+    ],
+    "open_steam": [
+        "otwórz steam",
+        "uruchom steam",
+        "włącz steam",
+        "odpal steam"
+    ],
+    "open_discord": [
+        "otwórz discord",
+        "uruchom discord",
+        "włącz discord",
+        "odpal discord"
+    ],
+    "open_messenger": [
+        "odpal messenger",
+        "otwórz messenger",
+        "uruchom messenger",
+        "włącz messenger",
+        "napisz na messengerze"
+    ],
+    "volume_up": [
+        "podgłośnij",
+        "głośniej",
+        "muzyka głośniej",
+        "volume up"
+    ],
+    "volume_down": [
+        "ścisz",
+        "ciszej",
+        "muzyka ciszej",
+        "volume down"
+    ],
+    "volume_up_chrome": [
+        "podgłośnij chrome",
+        "chrome głośniej",
+        "przeglądarka głośniej",
+        "głośniej youtube",
+        "youtube głośniej",
+        "podgłośnij youtube"
+    ],
+    "volume_down_chrome": [
+        "ścisz chrome",
+        "chrome ciszej",
+        "przeglądarka ciszej",
+        "ciszej youtube",
+        "youtube ciszej",
+        "ścisz youtube"
+    ],
+    "create_note": [
+        "zrób notatkę",
+        "nowy notatnik",
+        "pisz w notatniku"
+    ],
+    "read_note": [
+        "przeczytaj notatnik",
+        "odczytaj notatkę",
+        "co jest w notatniku"
+    ],
+    "take_screenshot": [
+        "zrób zdjęcie ekranu",
+        "zrób screenshot",
+        "zapisz ekran",
+        "pstryknij",
+        "screenshot",
+        "skrinszot",
+        " zrób skrinszot"
+    ],
+    "app_set": [
+        "ustaw zestaw",
+        "odpal zestaw",
+        "ustaw set",
+        "odpal set"
+    ],
+    "change_voice": [
+        "zmień głos",
+        "zmień voice",
+        "inny głos",
+        "inny voice"
+    ],
+    "launch_game": [
+        "odpal grę",
+        "uruchom grę",
+        "zagrajmy w",
+        "włącz grę"
+    ],
+    "close_game": [
+        "zamknij grę",
+        "wyłącz grę",
+        "zamknij wszystkie gry",
+        "koniec grania"
+    ]
+}

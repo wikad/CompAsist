@@ -1,0 +1,28 @@
+# Środowisko
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+
+# Sekrety i tokeny - nigdy do repozytorium
+.env
+.cache
+.spotify_cache
+
+# Modele i próbki głosu (duże / prywatne)
+models/vosk-model-*/
+voices/*
+!voices/README.md
+
+# Dane tworzone w trakcie działania
+data/projects.json
+data/chat_history.json
+notes/
+screenshots/
+
+# IDE / system
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
